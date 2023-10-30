@@ -94,7 +94,7 @@ ul{
 
 a{
    text-decoration: none; 
-   color: white;
+   color: rgb(255, 255, 255);
    text-transform: capitalize;
    font-size: 1rem;
    line-height: 1.5;
@@ -327,7 +327,7 @@ li:last-child{
         font-size: 1rem;
         line-height: 1.5;
         display: block;
-        background-color: rgba(240, 248, 255, 0.637);
+        background-color: rgba(240, 248, 255, 0.918);
         
         
      }
